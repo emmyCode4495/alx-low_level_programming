@@ -13,10 +13,12 @@ int main(void)
 	while (lowerCaseStartValue <= 122)
 	{
 		putchar(lowerCaseStartValue);
+		lowerCaseStartValue++;
 	}
 	while (upperCaseStartValue <= 90)
 	{
 		putchar(upperCaseStartValue);
+		upperCaseStartValue++;
 	}
 	putchar('\n');
 	return (0);
