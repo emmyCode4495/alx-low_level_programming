@@ -1,9 +1,8 @@
 #include <stdio.h>
-/***
- *
-  *main - The entry point of the C program
-  *Return: The integer to be returned after compilation
-  *Description C program to print lower case alph without q and e
+/**
+ *main - This is the entry point of the C program
+ *Description: Print alphabet in lowercase withou q and e
+ *Return: The integer to be returned after successful compilation
  */
 int main(void)
 {
