@@ -1,8 +1,9 @@
 #include <stdio.h>
+
 /**
- *main - themain entry point
- *Return: the integer to be returned after successful compilATION
- *dESCRIPTION: c PROGRAM TO PRINT BASE 16 NUMBERS
+ *main - themain entry of the C program
+ *Return: The returning integer when compile successfull
+ *DEscription: to print base10 and base16 values
  *
  */
 int main(void)
@@ -18,6 +19,6 @@ int main(void)
 	{
 		putchar(alphabets);
 	}
-	putchar('\n);
+	putchar('\n');
 	return (0);
 }
