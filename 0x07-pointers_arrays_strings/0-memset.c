@@ -1,10 +1,10 @@
 #include "main.h"
 /**
- *_memset - a function that fills a block of memory with a given value
+ * _memset - a function that fills a block of memory with a given value
  *@s: The is the starting point of the address
  *@b: The value to be gotten from the user
  *@n: the required number of bytes to be changed
- *
+ *Return: The filled string will be returned
  *
  *
  */
