@@ -1,15 +1,16 @@
 #ifndef DOG_H
 #define DOG_H
 
-
-	/**
-	 * struct dog - basic info of a dog
-	 * @name:first member variable
-	 * @age: Second member variable
-	 * @owner: Third member variable
-	 *
-	 * Description: for a better description
-	 */
+/**
+* struct dog - def for struct dog
+* @name: First variable member
+* @age: second variable member
+* @owner: Third variable member
+*
+*Description: More decription to come
+*
+*
+*/
 	struct dog
 	{
 		char *name;
