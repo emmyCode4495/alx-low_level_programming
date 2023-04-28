@@ -16,22 +16,20 @@ size_t print_list(const list_t *h)
 {
 	size_t numOfNodesToReturn = 0;
 
-	do
-	{
+	do {
 
 		if (!h->str)
 		{
 			printf("[0] (nil)\n");
 		}
-	
 		else
 		{
 			printf("[%u] %s\n", h->len, h->str);
 		}
-	
+
 		h = h->next;
 		numOfNodesToReturn++;
-	}while (h);
+	} while (h);
 
 	return (numOfNodesToReturn);
 }
