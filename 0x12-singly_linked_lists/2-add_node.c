@@ -4,7 +4,7 @@
 
 /**
  * add_node - function to add a new node to the beginning of a linked list
- * @head: pointer that points to a pointer 
+ * @head: pointer that points to a pointer
  * @str: pointer to the new string to be added to the node
  *
  * Return: The function returns the address of the new nodes
