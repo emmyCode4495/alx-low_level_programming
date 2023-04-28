@@ -16,7 +16,7 @@ size_t print_list(const list_t *h)
 {
 	size_t numOfNodesToReturn = 0;
 
-	while(h) 
+	while (h)
 	{
 
 		if (!h->str)
@@ -30,7 +30,7 @@ size_t print_list(const list_t *h)
 
 		h = h->next;
 		numOfNodesToReturn++;
-	} 
+	}
 
 	return (numOfNodesToReturn);
 }
