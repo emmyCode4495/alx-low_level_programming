@@ -1,3 +1,1 @@
-############### THE ALX MORE SINGLY LIST PROJECT ############
-############### AUTHOR:- ENYA, EMMANUEL PIUS
-############### ALX SOFTWARE ENGINEERING COHORT 13 STUDENT
+################# MORE SINGLY LIST TASK ####################
